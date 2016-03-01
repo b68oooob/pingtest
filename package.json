@@ -1,0 +1,18 @@
+{
+  "name": "pingtest",
+  "version": "1.0.0",
+  "description": "ping",
+  "main": "index.js",
+  "scripts": {
+    "test": "node.es6 index.js"
+  },
+  "keywords": [
+    "ping"
+  ],
+  "author": "grw",
+  "license": "ISC",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "iconv-lite": "^0.4.13"
+  }
+}
